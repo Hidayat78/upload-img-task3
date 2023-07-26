@@ -1,0 +1,44 @@
+.box {
+    width: 50%;
+    height: 400px;
+    border: 4px dashed rgb(117, 112, 112);
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.DeleteBox {
+    height: 400px;
+    width: 400px;
+    float: right;
+    border: 2px solid black;
+}
+
+
+
+
+.droparea {
+    padding: 50px 25px;
+    margin: 30px auto;
+    border: 1px solid #c3c3c3;
+    text-align: center;
+    width: 34%;
+    display: inline-flex;
+}
+
+.uploadfile {
+    width: 60%;
+    display: inline-flex;
+    margin-left: 5%;
+}
+
+.control_wrapper {
+    max-width: 500px;
+    margin: auto;
+}
+
+.e-upload {
+    width: 100%;
+    position: relative;
+    margin-top: 15px;
+    float: none;
+}

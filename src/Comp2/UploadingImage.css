@@ -1,0 +1,33 @@
+.image-uploader {
+    border: 2px dashed #1487f3;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    height: 300px;
+    /* width: 400px; */
+}
+
+.file-input-container {
+    display: none;
+}
+
+.image-name-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.button-container {
+    display: flex;
+}
+
+.preview-button,
+.remove-button {
+    padding: 5px 10px;
+    margin-left: 10px;
+    background-color: #ccc;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}

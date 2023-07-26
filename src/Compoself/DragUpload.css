@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.parentDiv {
+    display: flex;
+    height: 400px;
+    width: 400px;
+    background: linear-gradient(282deg, #dbdbdb 0%, #ffc788);
+}
